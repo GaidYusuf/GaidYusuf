@@ -23,5 +23,3 @@ Welcome to my GitHub portfolio! I'm Gaid Yusuf, a recent Computer Science gradua
 📫 Email: [qaayed@hotmail.com](mailto:qaayed@hotmail.com)
 
 🌐 LinkedIn: [Gaid Yusuf](https://www.linkedin.com/in/gaid-yusuf-4b7b85166/?originalSubdomain=uk)
-
-Let's connect and explore exciting opportunities in software development together!
