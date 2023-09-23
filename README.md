@@ -1,4 +1,4 @@
-# Gaid Yusuf's Portfolio
+# Portfolio
 
 🎓 Recent Computer Science Graduate | 🚀 Aspiring Software Developer
 
