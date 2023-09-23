@@ -1,4 +1,4 @@
-# Gaid Yusuf's GitHub Portfolio
+# Gaid Yusuf's Portfolio
 
 🎓 Recent Computer Science Graduate | 🚀 Aspiring Software Developer
 
