@@ -2,7 +2,7 @@
 
 🎓 MSc Computer Science Student | 🚀 Aspiring Software Developer
 
-Welcome to my GitHub portfolio! I'm Gaid Yusuf, a Computer Science student with a passion for software development.
+Welcome to my GitHub portfolio! I'm Gaid Yusuf, a Computer Science graduate with a passion for software engineering.
 
 ## About Me
 
@@ -20,6 +20,6 @@ Welcome to my GitHub portfolio! I'm Gaid Yusuf, a Computer Science student with 
 
 ## Contact
 
-📫 Email: [qaayed@hotmail.com](mailto:qaayed@hotmail.com)
+📫 Email: [qaayed2@gmail.com](mailto:qaayed2@gmail.com)
 
-🌐 LinkedIn: [Gaid Yusuf](https://www.linkedin.com/in/gaid-yusuf-4b7b85166/?originalSubdomain=uk)
+🌐 LinkedIn: [Gaid Yusuf](https://www.linkedin.com/in/gaidyusuf/)
