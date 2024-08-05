@@ -1,6 +1,6 @@
 # Portfolio
 
-🎓 MSc Computer Science Graduate | 🚀 Aspiring Software Developer
+🎓 MSc Computer Science Graduate | 👨‍💻 Aspiring Software Developer
 
 Welcome to my GitHub portfolio! I'm Gaid Yusuf, a Computer Science graduate with a passion for software development.
 
