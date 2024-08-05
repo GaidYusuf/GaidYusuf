@@ -24,4 +24,4 @@
   <a href="https://www.linkedin.com/in/gaidyusuf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/gaidyusuf/gaidyusuf/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/gaidyusuf/gaidyusuf/output/github-contribution-grid-snake.svg)
