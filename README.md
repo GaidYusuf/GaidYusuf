@@ -1,9 +1,11 @@
+# Portfolio
+
 🎓 MSc Computer Science Graduate | 🚀 Aspiring Software Developer
 
 Welcome to my GitHub portfolio! I'm Gaid Yusuf, a Computer Science graduate with a passion for software development.
 
 ## About Me
-- 🌟 MSc Computer Science graduate from the University of Birmingham.
+- 🌟 MSc Computer Science graduate from University of Birmingham.
 - 🚀 Aspiring software developer with a strong foundation in Java, Python, JavaScript, HTML, CSS, SQL, and Git.
 - 📚 Developed "MuslimLife," a web-based user application for exploring and engaging with Islamic content.
 - 🌐 Constantly learning and exploring new technologies to grow as a developer.
